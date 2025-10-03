@@ -1,14 +1,11 @@
 package com.elevatelabs.tasks.task8;
-
 import java.util.*;
-
 
 public class QuizApp {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-       
         List<Question> questions = new ArrayList<>();
         questions.add(new Question(
                 "What is Java?",
@@ -54,7 +51,8 @@ public class QuizApp {
         }
 
         // TO Show final score
-        System.out.println("\nYou scored " + score + "/" + questions.size() + " correct answers!");
+        System.out.println("\nYou scored " + score + "/" + questions.size() + " correct answers");
        
     }
 }
+
