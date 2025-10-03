@@ -64,5 +64,5 @@ You scored 3/4 correct answers.
 
 
 - Name: Saleha Firdous Syed Qamar
-- Domain: Java Full Stack Development 
+- Domain: Java Developer Intern
 - Date: 3 October 2025
